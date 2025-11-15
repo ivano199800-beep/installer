@@ -1,3 +1,3 @@
-OUT="open_this/main"
-IN="src/main.c"
+export OUT="open_this/main"
+export IN="'src/main.c' "
 

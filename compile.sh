@@ -1,1 +1,1 @@
-clang "$ARGS" -o  "$OUT" "$IN"
+clang "$IN" "$ARGS" -o "$OUT"

@@ -1,3 +1,4 @@
+
 installed="{$HOME}/installed"
 sudo apt install git -y
 sudo apt install lua5
